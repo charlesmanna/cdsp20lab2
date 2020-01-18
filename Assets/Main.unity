@@ -620,7 +620,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemySpawns:
   - {fileID: 0}
-  gameover: {fileID: 0}
+  gameover: {fileID: 1558209988}
 --- !u!4 &2032237144
 Transform:
   m_ObjectHideFlags: 0
